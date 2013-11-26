@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Game Patissiere]]></title>
+  <link href="http://gamepattisiere.github.io/atom.xml" rel="self"/>
+  <link href="http://gamepattisiere.github.io/"/>
+  <updated>2013-11-27T00:41:30+09:00</updated>
+  <id>http://gamepattisiere.github.io/</id>
+  <author>
+    <name><![CDATA[Takuya Shishido]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Myfirstpost]]></title>
+    <link href="http://gamepattisiere.github.io/blog/2013/11/26/myfirstpost/"/>
+    <updated>2013-11-26T01:37:57+09:00</updated>
+    <id>http://gamepattisiere.github.io/blog/2013/11/26/myfirstpost</id>
+    <content type="html"><![CDATA[<p>first post.日本語テスト。
+This is a test post.</p>
+
+<h1>Topics</h1>
+
+<h2>SubTopics</h2>
+
+<pre><code>Code test
+#include &lt;iostream&gt;
+
+int main() {
+    std::cout &lt;&lt; "Hello" &lt;&lt; std::endl;
+}
+</code></pre>
+
+<ul>
+<li>first</li>
+<li>second</li>
+<li>third</li>
+</ul>
+
+
+<hr />
+
+<blockquote><p>引用
+これは必須機能</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>

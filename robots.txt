@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://gamepattisiere.github.io/sitemap.xml 
